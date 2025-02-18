@@ -1,0 +1,20 @@
+{
+    "stats": [
+        "Points",
+        "Assists",
+        "Rebounds",
+        "Steals",
+        "Blocks",
+        "Turnovers",
+        "Wins",
+        "Losses",
+        "Win",
+        "Lose",
+        "Point",
+        "Assist",
+        "Rebound",
+        "Steal",
+        "Block",
+        "Turnover"
+    ]
+}
